@@ -206,7 +206,7 @@
 
 .filemanager .data li {
 	border-radius: 3px;
-	/*background-color: #fafafa;*/
+	background-color: #f8f9fa;
 	border: 1px solid var(--bs-border-color);
 	width: 300px;
 	height: 118px;
@@ -237,6 +237,7 @@
 .filemanager .data li.folders {
 	padding-top:1.5rem;
 	padding-left:1.5rem;
+	background-color: #f8f9fa;
 }
 
 .filemanager .data li a {
@@ -255,8 +256,7 @@
 }
 
 .filemanager .data li .info {
-	//margin-top:1rem;
-	//margin-top: 15px;
+	padding:10px !important;
 }
 
 .filemanager .data li .name {
