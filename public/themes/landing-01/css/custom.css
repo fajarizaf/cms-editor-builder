@@ -12,6 +12,55 @@
 
 #navbar > .navbar-nav.ms-auto > .nav-item.dropdown > .nav-link {
 	opacity: 1;
-	color: #f8f9fa;
+	color: rgb(248, 249, 250);
+}
+
+header > .container.mb-4 > .row > .col-sm-3.p-3 > img {
+	opacity: 0.5;
+	width: 152px;
+}
+
+header > .container.mb-4 > .row {
+	padding-bottom: 20px;
+}
+
+.features-3.py-5.bg-alternate > .container > .row > .col-lg-6 > p {
+	color: rgb(108, 117, 125);
+}
+
+.features-3.py-5.bg-alternate > .container > .row > .col-lg-6 > p > h1 {
+	font-size: 26px;
+}
+
+.features-3.py-5.bg-alternate > .container > .row > .col-lg-6.d-flex.align-items-center > .row > .col-md-12.mb-4 > .d-flex.align-items-center > .p-4 > .text-muted > .linking {
+	font-size: 26px;
+}
+
+.hero-2 > .container > .row.align-items-center.justify-content-between > .col-lg-5 > .video-wrap.glightbox > .img-fluid {
+	float: none;
+}
+
+.hero-2 > .overlay {
+	opacity: 1;
+}
+
+.hero-2 > .container > .row.align-items-center.justify-content-between > .col-lg-5 {
+	display: flex;
+}
+
+.features-3.py-5.bg-alternate > .container > .row > .col-lg-6 > .col-md-12.mt-3.text-center > .btn.btn-primary {
+	float: left;
+}
+
+.hero-2 > .container > .row.align-items-center.justify-content-between > .container > .row > .col-12.col-lg-4.mb-2 > .card.h-100.shadow-sm > .card-body > .btn.btn-sm.btn-warning {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	float: none;
+}
+
+.features-3.py-5.bg-alternate > .container > .row > .col-lg-6.d-flex.align-items-center > .row > .col-md-12.mb-4 {
+	background-color: #f8f9fa;
 }
 

@@ -52,7 +52,7 @@ return
 			['title' =>  __('Content'), 'name' =>  'content'],
 			['title' => __('Ecommerce'), 'name' =>  'ecommerce'],
 			['title' => __('Bootstrap 5'), 'name' =>  'bootstrap5'],
-			['title' => __('Landing theme components'), 'name' =>  'landing', 'file'=> 'landing-components.js'],
+			['title' => __('Landing theme components'), 'name' =>  'landing-01', 'file'=> 'landing-components.js'],
 		],
 		'inputs' => [
 			['title' =>  __('Slider inputs'), 'name' =>  'slider', 'file'=> 'slider-inputs.js'],
