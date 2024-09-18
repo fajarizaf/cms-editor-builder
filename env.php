@@ -44,7 +44,7 @@ defined('DISABLE_PLUGIN_ON_ERORR') || define('DISABLE_PLUGIN_ON_ERORR', false);
 
 //no trailing slash for subdir path
 //defined('V_SUBDIR_INSTALL') || define('V_SUBDIR_INSTALL', '/vvveb');
-defined('V_SUBDIR_INSTALL') || define('V_SUBDIR_INSTALL', '/cms-editor-builder');
+defined('V_SUBDIR_INSTALL') || define('V_SUBDIR_INSTALL', false);
 
 //if shared session is enabled then user session (login) will work on all subdomains on multisite installations
 defined('V_SHARED_SESSION') || define('V_SHARED_SESSION', false);
