@@ -4,10 +4,11 @@
   array (
     'name' => 'Default',
     'host' => '*.*.*',
-    'theme' => 'landing-01',
+    'theme' => 'influencer',
     'state' => 'live',
     'template' => '',
     'id' => 1,
     'site_id' => 1,
+    'key' => '* * *',
   ),
 );
