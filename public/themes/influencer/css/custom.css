@@ -1,0 +1,22 @@
+:root {
+	--light: undefined;
+}
+
+#navbar > .btn.btn-border-tp.btn-small.ml-3 {
+	background-color: rgb(248, 249, 250);
+}
+
+#service > .container > .row.align-items-center > .col-lg-4.col-md-6.col-sm-6 > .service-block.mb-4.mb-lg-0 > .ti-rocket.text-success {
+	color: rgb(220, 53, 69);
+	text-decoration-color: rgb(220, 53, 69);
+}
+
+#service > .container > .row.align-items-center > .col-lg-4.col-md-6.col-sm-6 > .service-block.mb-4.mb-lg-0 > .ti-email.text-warning {
+	color: rgb(220, 53, 69);
+	text-decoration-color: rgb(220, 53, 69);
+}
+
+.section.others-book > .container > .row > .col-lg-3.col-md-6.col-sm-6 > .book-item.mb-4.mb-lg-0 > .hover-item {
+	background-image: url(/cms-editor-builder/public/media/lqewCgAAQBAJ.jpeg);
+}
+
