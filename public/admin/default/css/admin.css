@@ -11591,7 +11591,6 @@ img.preview {
 
 #tree-list {
   position: absolute;
-  display: none;
   top: 10%;
   left: 80%;
   left: calc(100% - 300px);

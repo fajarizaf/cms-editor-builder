@@ -20,27 +20,132 @@
 	background-image: url("/cms-editor-builder/public/media/lqewCgAAQBAJ.jpeg");
 }
 
-#chapter > .container > .row > .col-lg-6 > .section-heading > p {
-	font-size: 20px;
+#banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-3.mt-2 {
+	color: rgb(248, 249, 250);
 }
 
-#book > .container > .row > .col-lg-6 > .section-heading.book-info.mt-5.mt-lg-0 > .list-unstyled.mt-4.mb-5 > li {
-	background-color: #f8f9fa;
-	color: #6c757d;
-	border-width: 1px;
+#banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 > font {
+	color: rgb(255, 193, 7);
+}
+
+#banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: rgb(255, 193, 7);
+}
+
+#banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .text-color.font-weight-bold {
+	color: rgb(255, 193, 7);
+}
+
+#banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 {
+	color: rgb(248, 249, 250);
+}
+
+#mainmenu-area > .navbar.navbar-expand-lg > .container.align-items-center > .navbar-brand > .mb-0 > font {
+	color: rgb(220, 53, 69);
+}
+
+#mainmenu-area > .navbar.navbar-expand-lg > .container.align-items-center > .navbar-brand > .mb-0 {
+	color: rgb(108, 117, 125);
+}
+
+#banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: rgb(199, 199, 199);
+}
+
+#banner-02 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-3.mt-2 {
+	color: rgb(56, 87, 119);
+}
+
+#banner-02 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 > font {
+	color: rgb(220, 53, 69);
+}
+
+#banner-02 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 {
+	color: rgb(56, 87, 119);
+}
+
+#banner-02 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .text-color.font-weight-bold {
+	color: rgb(220, 53, 69);
+}
+
+#banner-02 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: rgb(108, 117, 125);
+}
+
+#banner-02 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: rgb(220, 53, 69);
+}
+
+#banner-01 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-3.mt-2 {
+	color: rgb(38, 59, 94);
+}
+
+#banner-01 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 > font {
+	color: rgb(220, 53, 69);
+}
+
+#banner-01 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 {
+	color: rgb(52, 58, 64);
+}
+
+#banner-01 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: rgb(52, 58, 64);
+	opacity: 1;
+}
+
+#banner-01 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .text-color.font-weight-bold {
+	color: rgb(220, 53, 69);
+}
+
+#banner-01 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: rgb(38, 59, 94);
+	opacity: 1;
+}
+
+.banner-main-2.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 > font {
+	color: rgb(255, 193, 7);
+}
+
+.banner-main-2.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-3.mt-2 {
+	color: rgb(248, 249, 250);
+}
+
+.banner-main-2.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .text-color.font-weight-bold {
+	color: rgb(255, 193, 7);
+}
+
+.banner-main-2.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 {
+	color: rgb(248, 249, 250);
+}
+
+.banner-main-2.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: rgb(134, 148, 182);
+}
+
+.banner-main-2.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: rgb(255, 193, 7);
+}
+
+.banner-main-3.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .row > .col-lg-4.col-sm-6 > .contact-info-block.text-center.mb-4 {
+	background-color: #ffc929;
 	border-style: solid;
-	border-top-left-radius: 8px;
-	border-top-right-radius: 8px;
-	border-bottom-right-radius: 8px;
-	border-bottom-left-radius: 8px;
-	margin-top: 12px;
-	margin-bottom: 12px;
+	border-width: 1px;
+	border-color: #fd7e14;
+	margin-bottom: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
 }
 
-#book > .container > .row > .col-lg-6 > .section-heading.book-info.mt-5.mt-lg-0 {
-	border-top-left-radius: 8px;
-	border-top-right-radius: 8px;
-	border-bottom-right-radius: 8px;
-	border-bottom-left-radius: 8px;
+.banner-main-3.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: #dc3545;
+}
+
+.banner-main-3.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: #f8f9fa;
+>>>>>>> d31b09047abd85f7e5c5872e711b8b216b4c769a
 }
 

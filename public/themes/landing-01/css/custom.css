@@ -61,6 +61,21 @@ header > .container.mb-4 > .row {
 }
 
 .features-3.py-5.bg-alternate > .container > .row > .col-lg-6.d-flex.align-items-center > .row > .col-md-12.mb-4 {
-	background-color: #f8f9fa;
+	background-color: rgb(248, 249, 250);
+}
+
+.hero-2 > .container > .row.align-items-center.justify-content-between > .container > .row > .col-12.col-lg-4.mb-2 > .card.h-100.shadow-sm {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+.hero-2 > .container > .row.align-items-center.justify-content-between > .container > .row > .col-12.col-lg-4.mb-2 > .card.h-100.shadow-sm > .card-body > h3 {
+	font-family: Alata;
+}
+
+.hero-2 > .container > .row.align-items-start.flex-row-reverse > .container > .row > .col-12.col-lg-4.mb-2 > .card.h-100.shadow-sm > .card-body > h3 {
+	font-family: Anaheim;
 }
 
