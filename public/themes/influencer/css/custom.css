@@ -45,7 +45,7 @@
 }
 
 #mainmenu-area > .navbar.navbar-expand-lg > .container.align-items-center > .navbar-brand > .mb-0 {
-	color: rgb(108, 117, 125);
+	color: rgb(33, 39, 44);
 }
 
 #banner > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
@@ -127,10 +127,19 @@
 }
 
 .banner-main-3.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .row > .col-lg-4.col-sm-6 > .contact-info-block.text-center.mb-4 {
-	background-color: #ffc929;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #fd7e14;
+	background-color: rgb(255, 201, 41);
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: rgb(253, 126, 20);
+	border-right-color: rgb(253, 126, 20);
+	border-bottom-color: rgb(253, 126, 20);
+	border-left-color: rgb(253, 126, 20);
 	margin-bottom: 0px;
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -141,11 +150,290 @@
 }
 
 .banner-main-3.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
-	background-color: #dc3545;
+	background-color: rgb(220, 53, 69);
 }
 
 .banner-main-3.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
-	color: #f8f9fa;
->>>>>>> d31b09047abd85f7e5c5872e711b8b216b4c769a
+	color: rgb(248, 249, 250);
+}
+
+#top-header > .hero-2.py-7 {
+	background-color: rgb(38, 59, 94);
+	opacity: 1;
+	background-image: url("/cms-editor-builder/public/media/pexels-kubiceknov-924824.jpg");
+	background-size: cover;
+	padding-bottom: 0px;
+}
+
+.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-3.mt-2 {
+	color: rgb(248, 249, 250);
+}
+
+.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 > font {
+	color: rgb(255, 193, 7);
+}
+
+.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: rgb(255, 193, 7);
+}
+
+.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .text-color.font-weight-bold {
+	color: rgb(255, 193, 7);
+}
+
+.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 > h4 {
+	color: rgb(248, 249, 250);
+}
+
+#top-header > .hero-3.py-7 {
+	background-color: rgb(255, 193, 7);
+}
+
+.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .row > .col-lg-4.col-sm-6 > .contact-info-block.text-center.mb-4 {
+	background-color: rgb(254, 202, 47);
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-color: rgb(253, 126, 20);
+	border-right-color: rgb(253, 126, 20);
+	border-bottom-color: rgb(253, 126, 20);
+	border-left-color: rgb(253, 126, 20);
+}
+
+.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .btn.btn-main.mt-2 {
+	background-color: rgb(220, 53, 69);
+}
+
+.hero-3.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: rgb(248, 249, 250);
+}
+
+#top-header > .hero-1.py-7 {
+	background-color: rgb(244, 247, 252);
+	opacity: 1;
+	padding-bottom: 0px;
+}
+
+.hero-2.py-7 > .container > .row.justify-content-between > .col-lg-7.col-md-8 > .main-banner > .mb-4 {
+	color: rgb(248, 249, 250);
+}
+
+#book > .container > .row {
+	padding-top: 90px;
+}
+
+#top-header > .section.chapter-2.chapter {
+	background-color: rgb(48, 5, 118);
+	background-image: url("/cms-editor-builder/public/media/Element-header.png");
+	background-size: cover;
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6 > .section-heading > .text-lg {
+	color: rgb(255, 193, 7);
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6 > .section-heading > p {
+	color: rgb(248, 249, 250);
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > h4 {
+	color: rgb(255, 193, 7);
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > h4 > font {
+	color: rgb(248, 249, 250);
+}
+
+#review {
+	padding-top: 60px;
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item {
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+	border-top-color: rgb(54, 37, 135);
+	border-right-color: rgb(54, 37, 135);
+	border-bottom-color: rgb(54, 37, 135);
+	border-left-color: rgb(54, 37, 135);
+}
+
+#service > .container > .row.align-items-center > .col-lg-4.col-md-6.col-sm-6 > .service-block.mb-4.mb-lg-0 > .ti-microphone.text-danger {
+	color: rgb(255, 193, 7);
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > .badge.bg-danger {
+	color: rgb(248, 249, 250);
+	opacity: 1;
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > p {
+	color: rgb(172, 183, 210);
+}
+
+.section.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > .badge {
+	background-color: rgb(220, 53, 69);
+	color: rgb(248, 249, 250);
+}
+
+#top-header > .chapter-2.chapter {
+	background-color: rgb(38, 59, 94);
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.chapter-2.chapter > .container > .row > .col-lg-6 > .section-heading > .text-lg {
+	background-color: rgb(38, 60, 95);
+	color: rgb(255, 193, 7);
+	opacity: 1;
+}
+
+.chapter-2.chapter > .container > .row > .col-lg-6 > .section-heading > p {
+	color: rgb(248, 249, 250);
+}
+
+.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > h4 {
+	color: rgb(255, 193, 7);
+}
+
+.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > h4 > font {
+	color: rgb(248, 249, 250);
+}
+
+.chapter-2.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item {
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+}
+
+#top-header > .chapter-3.chapter {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: rgb(25, 39, 77);
+	background-image: url("/cms-editor-builder/public/media/Element-header.png");
+	background-size: cover;
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6 > .section-heading > .text-lg {
+	color: rgb(248, 249, 250);
+	background-image: url("/cms-editor-builder/public/media/Element-header.png");
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6 > .section-heading > h1 {
+	color: rgb(255, 193, 7);
+	font-size: 40px;
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item {
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+	border-top-color: rgb(50, 62, 98);
+	border-right-color: rgb(50, 62, 98);
+	border-bottom-color: rgb(50, 62, 98);
+	border-left-color: rgb(50, 62, 98);
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > h4 {
+	color: rgb(255, 193, 7);
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > h4 > font {
+	color: rgb(248, 249, 250);
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6 > .section-heading > p {
+	color: rgb(248, 249, 250);
+}
+
+.chapter-3.chapter > .container > .row > .col-lg-6.col-sm-6 > .chapter-inner > .chapter-item > .badge {
+	color: rgb(248, 249, 250);
+	background-color: rgb(220, 53, 69);
+}
+
+.section.others-book > .container > .row > .col-lg-3.col-md-6.col-sm-6 > .book-item.mb-4.mb-lg-0 > .img-fluid {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	border-top-color: rgb(218, 220, 226);
+	border-right-color: rgb(218, 220, 226);
+	border-bottom-color: rgb(218, 220, 226);
+	border-left-color: rgb(218, 220, 226);
+}
+
+.section.others-book > .container > .row > .col-lg-3.col-md-6.col-sm-6 > .btn.btn-main.mt-2:hover {
+	background-color: rgb(220, 53, 69);
+	text-decoration-color: rgb(220, 53, 69);
+}
+
+.section.others-book > .container > .row > .col-lg-3.col-md-6.col-sm-6 > .btn.btn-main-2.btn-info:hover {
+	width: 100%;
+	top: 10px;
+}
+
+#top-header > .section.others-book:hover {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.section.others-book > .container > .row > .col-lg-3.col-md-6.col-sm-6 > .btn.btn-primary:hover {
+	background-color: rgb(220, 53, 69);
+	color: rgb(248, 249, 250);
+}
+
+.section.others-book > .btn.btn-primary:hover {
+	float: none;
+	background-color: rgb(248, 249, 250);
+	color: rgb(248, 249, 250);
+}
+
+.section.others-book > .btn.btn-main-2.btn-info:hover {
+	text-align: center;
+	margin-right: 50%;
+	margin-left: 50%;
+}
+
+#clients-logo-section > .container > .row > .col-lg-3.col-sm-6 > .award-block.text-center.p-4.border.mb-4 {
+	padding-bottom: 84px;
+}
+
+#clients-logo-section > .container > .row > .col-lg-3.col-sm-6 > .award-block.text-center.p-4.border.mb-4 > .img-fluid {
+}
+
+#book > .container > .row > .col-lg-6 > .section-heading.book-info.mt-5.mt-lg-0 > .text-lg.mb-4 {
+	margin-top: 60px;
+}
+
+#service > .container > .row.align-items-center > .col-lg-4.col-md-6.col-sm-6 > .service-block.mb-4.mb-lg-0 {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+#mainmenu-area > .navbar.navbar-expand-lg.navbar-light {
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-right: 16px;
+	padding-left: 16px;
+	margin-top: -10px;
+	background-color: #f4f7fc;
 }
 

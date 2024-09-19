@@ -190,6 +190,16 @@ Common Styles
   transition: all 0.3s ease-in-out !important;
 }
 
+.background-container img {
+    width: 100%;
+    position: absolute;
+    top:0px;
+    background-size: cover;
+    height: 100vh;
+    z-index: -1;
+
+}
+
 .btn:focus {
   box-shadow: none !important;
 }
