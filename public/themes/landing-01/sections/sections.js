@@ -1,9 +1,8 @@
-
-
 Vvveb.Sections.add("hero/hero-2", {
-    name: "Hero 2",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/hero/hero-slider-thumb.png",
-    html: `<header class="hero-2" title="hero-2">
+  name: "Hero 2",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/hero/hero-slider-thumb.png",
+  html: `<header class="hero-2" title="hero-2">
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-6 mb-5 ms-5" data-aos="fade-up" data-aos-delay="0">
@@ -107,15 +106,16 @@ Vvveb.Sections.add("hero/hero-2", {
   <div class="overlay">
   </div>
 
-</header>`
+</header>`,
 });
 
 Vvveb.SectionsGroup["Hero"] = ["hero/hero-2"];
 
 Vvveb.Sections.add("features/features-1", {
-    name: "Features 1",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-1-thumb.jpeg",
-    html: `<section class="features-1 bg-alternate" title="features-1">
+  name: "Features 1",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-1-thumb.jpeg",
+  html: `<section class="features-1 bg-alternate" title="features-1">
   <div class="container">
     <div class="row wrap">
       <div class="col-md-7 align-self-center">
@@ -158,11 +158,13 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-2", {
-    name: "Features 2",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-2-thumb.jpeg",
-    html: `<section class="features-2 py-5 bg-alternate" title="features-2">
+</section>`,
+});
+Vvveb.Sections.add("features/features-2", {
+  name: "Features 2",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-2-thumb.jpeg",
+  html: `<section class="features-2 py-5 bg-alternate" title="features-2">
 
   <div class="row no-gutters">
     <div class="col-lg-6">
@@ -196,11 +198,13 @@ Vvveb.Sections.add("features/features-1", {
 
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-3", {
-    name: "Features 3",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-3-thumb.jpeg",
-    html: `<section class="features-3 py-5 bg-alternate" title="features-3">
+</section>`,
+});
+Vvveb.Sections.add("features/features-3", {
+  name: "Features 3",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-3-thumb.jpeg",
+  html: `<section class="features-3 py-5 bg-alternate" title="features-3">
   <div class="container">
 
     <div class="row">
@@ -271,11 +275,13 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-4", {
-    name: "Features 4",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-4-thumb.jpeg",
-    html: `<section class="features-4 py-5 bg-primary bg-gradient text-white" title="features-4">
+</section>`,
+});
+Vvveb.Sections.add("features/features-4", {
+  name: "Features 4",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-4-thumb.jpeg",
+  html: `<section class="features-4 py-5 bg-primary bg-gradient text-white" title="features-4">
 
   <div class="container">
     <div class="row">
@@ -340,11 +346,13 @@ Vvveb.Sections.add("features/features-1", {
     </div>
   </div>
 
-</section>`
-});Vvveb.Sections.add("features/features-5", {
-    name: "Features 5",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-5-thumb.jpeg",
-    html: `<section class="features-5 py-5 bg-alternate" title="features-5">
+</section>`,
+});
+Vvveb.Sections.add("features/features-5", {
+  name: "Features 5",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-5-thumb.jpeg",
+  html: `<section class="features-5 py-5 bg-alternate" title="features-5">
 
   <div class="container">
     <div class="row align-items-center">
@@ -387,11 +395,13 @@ Vvveb.Sections.add("features/features-1", {
     </div>
   </div>
 
-</section>`
-});Vvveb.Sections.add("features/features-6", {
-    name: "Features 6",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-6-thumb.jpeg",
-    html: `<section class="features-6 py-5 bg-alternate" title="features-6">
+</section>`,
+});
+Vvveb.Sections.add("features/features-6", {
+  name: "Features 6",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-6-thumb.jpeg",
+  html: `<section class="features-6 py-5 bg-alternate" title="features-6">
   <div class="container">
     <div class="row text-center">
       <div class="col-12">
@@ -430,11 +440,13 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-7", {
-    name: "Features 7",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-7-thumb.jpeg",
-    html: `<section class="features-7 py-5 bg-alternate" title="features-7">
+</section>`,
+});
+Vvveb.Sections.add("features/features-7", {
+  name: "Features 7",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-7-thumb.jpeg",
+  html: `<section class="features-7 py-5 bg-alternate" title="features-7">
   <div class="container">
     <div class="row text-center">
       <div class="col-12">
@@ -483,11 +495,13 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-8", {
-    name: "Features 8",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-8-thumb.jpeg",
-    html: `<section class="features-8 py-5 bg-alternate" title="features-8">
+</section>`,
+});
+Vvveb.Sections.add("features/features-8", {
+  name: "Features 8",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-8-thumb.jpeg",
+  html: `<section class="features-8 py-5 bg-alternate" title="features-8">
   <div class="container">
     <div class="row text-center">
       <div class="col-12">
@@ -576,11 +590,13 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-9", {
-    name: "Features 9",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-9-thumb.jpeg",
-    html: `<section class="features-9 py-5 bg-alternate" title="features-9">
+</section>`,
+});
+Vvveb.Sections.add("features/features-9", {
+  name: "Features 9",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/features/features-9-thumb.jpeg",
+  html: `<section class="features-9 py-5 bg-alternate" title="features-9">
   <div class="container">
     <div class="row text-center">
       <div class="col-12">
@@ -690,11 +706,14 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-10", {
-    name: "Features 10",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-10-thumb.jpeg",
-    html: `<section class="features-10 py-5 bg-alternate" title="features-10">
+</section>`,
+});
+Vvveb.Sections.add("features/features-10", {
+  name: "Features 10",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/features/features-10-thumb.jpeg",
+  html: `<section class="features-10 py-5 bg-alternate" title="features-10">
   <div class="container">
     <div class="row text-end align-items-center">
       <div class="col-12 col-md-6 m-auto">
@@ -741,11 +760,14 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("features/features-11", {
-    name: "Features 11",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/features/features-11-thumb.jpeg",
-    html: `<section class="features-11 py-5 bg-alternate" title="features-11">
+</section>`,
+});
+Vvveb.Sections.add("features/features-11", {
+  name: "Features 11",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/features/features-11-thumb.jpeg",
+  html: `<section class="features-11 py-5 bg-alternate" title="features-11">
   <div class="container">
     <div class="row text-center">
       <div class="col-12 col-md-8 col-lg-4">
@@ -779,34 +801,48 @@ Vvveb.Sections.add("features/features-1", {
       </div>
     </div>
   </div>
-</section>`
+</section>`,
 });
-	Vvveb.SectionsGroup["Features"] = ["features/features-1","features/features-2","features/features-3","features/features-4","features/features-5","features/features-6","features/features-7","features/features-8","features/features-9","features/features-10","features/features-11"];
+Vvveb.SectionsGroup["Features"] = [
+  "features/features-1",
+  "features/features-2",
+  "features/features-3",
+  "features/features-4",
+  "features/features-5",
+  "features/features-6",
+  "features/features-7",
+  "features/features-8",
+  "features/features-9",
+  "features/features-10",
+  "features/features-11",
+];
 Vvveb.Sections.add("base/1-column", {
-    name: "1 column",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/1-column-thumb.jpeg",
-    html: `<section title="one column" class="py-4">
+  name: "1 column",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/1-column-thumb.jpeg",
+  html: `<section title="one column" class="py-4">
   <div class="container">
     <div class="row">
       <div class="col"></div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("base/2-columns", {
-    name: "2 columns",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/2-columns-thumb.jpeg",
-    html: `<section title="two columns" class="py-4">
+</section>`,
+});
+Vvveb.Sections.add("base/2-columns", {
+  name: "2 columns",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/2-columns-thumb.jpeg",
+  html: `<section title="two columns" class="py-4">
   <div class="container">
     <div class="row">
       <div class="col"></div>
       <div class="col"></div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("base/3-columns", {
-    name: "3 columns",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/3-columns-thumb.jpeg",
-    html: `<section title="three columns" class="py-4">
+</section>`,
+});
+Vvveb.Sections.add("base/3-columns", {
+  name: "3 columns",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/3-columns-thumb.jpeg",
+  html: `<section title="three columns" class="py-4">
   <div class="container">
     <div class="row">
       <div class="col"></div>
@@ -814,39 +850,26 @@ Vvveb.Sections.add("base/1-column", {
       <div class="col"></div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("base/4-columns", {
-    name: "4 columns",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/4-columns-thumb.jpeg",
-    html: `<section title="four columns" class="py-4">
-  <div class="container">
-    <div class="row">
-      <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
-    </div>
-  </div>
-</section>`
-});Vvveb.Sections.add("base/6-columns", {
-    name: "6 columns",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/6-columns-thumb.jpeg",
-    html: `<section title="six columns" class="py-4">
+</section>`,
+});
+Vvveb.Sections.add("base/4-columns", {
+  name: "4 columns",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/4-columns-thumb.jpeg",
+  html: `<section title="four columns" class="py-4">
   <div class="container">
     <div class="row">
       <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("base/8-columns", {
-    name: "8 columns",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/8-columns-thumb.jpeg",
-    html: `<section title="eight columns" class="py-4">
+</section>`,
+});
+Vvveb.Sections.add("base/6-columns", {
+  name: "6 columns",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/6-columns-thumb.jpeg",
+  html: `<section title="six columns" class="py-4">
   <div class="container">
     <div class="row">
       <div class="col"></div>
@@ -855,15 +878,14 @@ Vvveb.Sections.add("base/1-column", {
       <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("base/12-columns", {
-    name: "12 columns",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/12-columns-thumb.jpeg",
-    html: `<section title="twelve columns" class="py-4">
+</section>`,
+});
+Vvveb.Sections.add("base/8-columns", {
+  name: "8 columns",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/8-columns-thumb.jpeg",
+  html: `<section title="eight columns" class="py-4">
   <div class="container">
     <div class="row">
       <div class="col"></div>
@@ -874,28 +896,57 @@ Vvveb.Sections.add("base/1-column", {
       <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
+    </div>
+  </div>
+</section>`,
+});
+Vvveb.Sections.add("base/12-columns", {
+  name: "12 columns",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/base/12-columns-thumb.jpeg",
+  html: `<section title="twelve columns" class="py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
       <div class="col"></div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("base/blank", {
-    name: "Blank",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/base/blank-thumb.jpeg",
-    html: `<section title="blank" class="py-4">
+</section>`,
+});
+Vvveb.Sections.add("base/blank", {
+  name: "Blank",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/base/blank-thumb.jpeg",
+  html: `<section title="blank" class="py-4">
   <div class="container">
     <h1>Blank container</h1>
   </div>
-</section>`
+</section>`,
 });
-	Vvveb.SectionsGroup["Base"] = ["base/1-column","base/2-columns","base/3-columns","base/4-columns","base/6-columns","base/8-columns","base/12-columns","base/blank"];
+Vvveb.SectionsGroup["Base"] = [
+  "base/1-column",
+  "base/2-columns",
+  "base/3-columns",
+  "base/4-columns",
+  "base/6-columns",
+  "base/8-columns",
+  "base/12-columns",
+  "base/blank",
+];
 
 Vvveb.Sections.add("posts/posts-2", {
-    name: "Posts 2",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/posts/posts-2-thumb.jpeg",
-    html: `<section class="pt-5 pb-5" title="posts-2">
+  name: "Posts 2",
+  image: Vvveb.themeBaseUrl + "/screenshots/sections/posts/posts-2-thumb.jpeg",
+  html: `<section class="pt-5 pb-5" title="posts-2">
   <div class="container">
     <div class="row">
       <div class="col-6">
@@ -1045,14 +1096,16 @@ Vvveb.Sections.add("posts/posts-2", {
       </div>
     </div>
   </div>
-</section>`
+</section>`,
 });
 Vvveb.SectionsGroup["Posts"] = ["posts/posts-2"];
 
 Vvveb.Sections.add("pricing-table/pricing-table-3", {
-    name: "Pricing table 3",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/pricing-table/pricing-table-3-thumb.jpeg",
-    html: `<section class="pricing-table-3" title="pricing-table-3">
+  name: "Pricing table 3",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/pricing-table/pricing-table-3-thumb.jpeg",
+  html: `<section class="pricing-table-3" title="pricing-table-3">
   <div class="container">
     <div class="row justify-content-center pb-2">
       <div class="col-md-7 heading-section text-center">
@@ -1162,542 +1215,15 @@ Vvveb.Sections.add("pricing-table/pricing-table-3", {
       </div>
     </div>
   </div>
-</section>`
+</section>`,
 });
-	Vvveb.SectionsGroup["Pricing table"] = ["pricing-table/pricing-table-3"];
-Vvveb.Sections.add("products/products-1", {
-    name: "Products 1",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/products/products-1-thumb.jpeg",
-    html: `<section class="products-1" title="latest-products-1">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="section-heading text-center">
-          <h2>Popular Products</h2>
-        </div>
-      </div>
-    </div>
-  </div>
+Vvveb.SectionsGroup["Pricing table"] = ["pricing-table/pricing-table-3"];
 
-
-  <div class="container" data-v-component-products="popular" data-v-limit="8" data-v-image_size="medium">
-    <div class="row">
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-      <div class="col-md-3" data-v-product>
-
-        <article class="single-product-wrapper">
-          <!-- Product Image -->
-          <a href="product/product.html" data-v-product-url> </a>
-          <div class="product-image">
-            <a href="product/product.html" data-v-product-url>
-
-              <img src="img/demo/product.jpg" loading="lazy" data-v-product-alt alt="" data-v-size="thumb" loading="lazy" data-v-product-image />
-
-              <!-- Hover Thumb -->
-              <img class="hover-img" src="img/demo/product-2.jpg" loading="lazy" data-v-product-alt alt="" loading="lazy" data-v-size="thumb" data-v-product-image-1 />
-            </a>
-
-            <!-- Favourite -->
-            <div class="product-favourite">
-              <a href="product/product.html" class="la la-heart" data-v-vvveb-action="addToWishlist" data-v-product-add_wishlist_url>
-                <span></span>
-              </a>
-            </div>
-
-            <!-- Compare -->
-            <div class="product-compare">
-              <a href="product/product.html" class="la la-random" data-v-vvveb-action="addToCompare" data-v-product-add_compare_url>
-                <span></span>
-              </a>
-            </div>
-          </div>
-
-          <!-- Product Description -->
-          <div class="product-content">
-
-            <a href="product/product.html" class="text-body" data-v-product-url>
-              <span data-v-product-name>Product 8</span>
-            </a>
-
-            <p class="product-price" data-v-if="_product.price > 0" data-v-product-price_tax_formatted>100.0000</p>
-
-            <!-- Hover Content -->
-            <div class="hover-content" data-v-if="_product.price > 0">
-              <!-- Add to Cart -->
-              <div class="add-to-cart-btn">
-                <input type="hidden" name="product_id" value="" data-v-product-product_id />
-                <a href="" class="btn btn-primary w-100" data-v-product-add_cart_url data-v-vvveb-action="addToCart" data-product_id="1">
-                  <span class="loading d-none">
-                    <span class="spinner-border spinner-border-sm align-middle" role="status" aria-hidden="true"> </span>
-                    <span>Add to cart</span>...
-                  </span>
-
-                  <span class="button-text">
-                    Add to cart
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </article>
-
-
-      </div>
-
-
-
-    </div>
-  </div>
-</section>`
-});
-	Vvveb.SectionsGroup["Products"] = ["products/products-1"];
 Vvveb.Sections.add("showcase/showcase-1", {
-    name: "Showcase 1",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-1-thumb.jpeg",
-    html: `<section class="d-flex showcase-1" title="showcase-1">
+  name: "Showcase 1",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-1-thumb.jpeg",
+  html: `<section class="d-flex showcase-1" title="showcase-1">
   <div class="container">
     <div class="row align-items-center w-100">
       <div class="col-md-6 col-sm-12">
@@ -1713,11 +1239,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-2", {
-    name: "Showcase 2",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-2-thumb.jpeg",
-    html: `<section class="d-flex showcase-2" title="showcase-2">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-2", {
+  name: "Showcase 2",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-2-thumb.jpeg",
+  html: `<section class="d-flex showcase-2" title="showcase-2">
   <div class="container">
     <div class="row align-items-center w-100">
       <div class="col-md-6 col-sm-12 col-img">
@@ -1733,11 +1261,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-3", {
-    name: "Showcase 3",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-3-thumb.jpeg",
-    html: `<section class="showcase-3" title="showcase-3">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-3", {
+  name: "Showcase 3",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-3-thumb.jpeg",
+  html: `<section class="showcase-3" title="showcase-3">
   <div class="container">
     <div class="row g-1 justify-content-center">
       <div class="col-12 col-sm-6 col-md-6 col-lg-3">
@@ -1797,11 +1327,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-4", {
-    name: "Showcase 4",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-4-thumb.jpeg",
-    html: `<section class="showcase-4" title="showcase-4">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-4", {
+  name: "Showcase 4",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-4-thumb.jpeg",
+  html: `<section class="showcase-4" title="showcase-4">
   <div class="container">
     <div class="row g-1 justify-content-center">
       <div class="col-12 col-sm-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
@@ -1866,11 +1398,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-5", {
-    name: "Showcase 5",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-5-thumb.jpeg",
-    html: `<section class="showcase-5" title="showcase-5">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-5", {
+  name: "Showcase 5",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-5-thumb.jpeg",
+  html: `<section class="showcase-5" title="showcase-5">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 col-sm-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
@@ -1935,11 +1469,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-6", {
-    name: "Showcase 6",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-6-thumb.jpeg",
-    html: `<section class="showcase-6" title="showcase-6">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-6", {
+  name: "Showcase 6",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-6-thumb.jpeg",
+  html: `<section class="showcase-6" title="showcase-6">
   <div class="separator top">
     <svg class="pricing-divider-img" enable-background="new 0 0 300 100" height="100px" id="Layer_1" fill="currentColor" preserveAspectRatio="none" version="1.1" viewBox="0 0 300 100" width="300px" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" y="0px">
       <path class="deco-layer deco-layer--1" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
@@ -2025,11 +1561,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
     </svg>
   </div>
 
-</section>`
-});Vvveb.Sections.add("showcase/showcase-7", {
-    name: "Showcase 7",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-7-thumb.jpeg",
-    html: `<section class="showcase-7" title="showcase-7">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-7", {
+  name: "Showcase 7",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-7-thumb.jpeg",
+  html: `<section class="showcase-7" title="showcase-7">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 col-sm-6 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
@@ -2085,11 +1623,13 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-8", {
-    name: "Showcase 8",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-8-thumb.jpeg",
-    html: `<section class="showcase-8" title="showcase-8">
+</section>`,
+});
+Vvveb.Sections.add("showcase/showcase-8", {
+  name: "Showcase 8",
+  image:
+    Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-8-thumb.jpeg",
+  html: `<section class="showcase-8" title="showcase-8">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-7 mx-auto" data-aos="fade-up" data-aos-delay="0">
@@ -2110,96 +1650,15 @@ Vvveb.Sections.add("showcase/showcase-1", {
         </div>
       </div>
     </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-9", {
-    name: "Showcase 9",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-9-thumb.jpeg",
-    html: `<section class="showcase-8" title="showcase-9">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-7 mx-auto" data-aos="fade-up" data-aos-delay="0">
-        <div class="feature">
-          <div class="font-container">
-            <i class="font-icon la la-robot"></i>
-          </div>
-          <div class="text">
-            <h3>
-              <a href="#">The next generation website builder</a>
-            </h3>
-            <p>Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
-            <a class="more d-block" href="#">
-              Read more
-              <i class="font-icon la la-chevron-circle-right"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-10", {
-    name: "Showcase 10",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-10-thumb.jpeg",
-    html: `<section class="showcase-10" title="showcase-10">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-7 mx-auto" data-aos="fade-up" data-aos-delay="0">
-        <div class="feature">
-          <div class="font-container">
-            <i class="font-icon la la-robot la-2x"></i>
-          </div>
-          <div class="text">
-            <h3>
-              <a href="#">The next generation website builder</a>
-            </h3>
-            <p>Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
-            <a class="more d-block" href="#">
-              Read more
-              <i class="font-icon la la-chevron-circle-right"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-11", {
-    name: "Showcase 11",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-11-thumb.jpeg",
-    html: `<section class="pt-5 pb-5">
-  <div class="container">
-    <div class="row align-items-center justify-content-center">
-      <div class="col-12 col-md-6   mt-4 mt-md-0 order-md-1 order-2">
-        <img alt="image" loading="lazy" class="img-fluid" src="http://via.placeholder.com/650x450/5fa9f8/fff">
-      </div>
-      <div class="col-12 col-md-4 order-1 order-md-2">
-        <h2>Nice Heading</h2>
-        <p class="text-h3 mt-3">Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
-      </div>
-    </div>
-    <div class="row align-items-center justify-content-center pt-5 pb-5">
-      <div class="col-12 col-md-4 offset-md-1">
-        <h2>Nice Heading</h2>
-        <p class="text-h3 mt-3">Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
+</section>`,
+});
 
-      </div>
-      <div class="col-12 col-md-6   mt-4 mt-md-0">
-        <img alt="image" loading="lazy" class="img-fluid" src="http://via.placeholder.com/650x450/5fa9f8/fff">
-      </div>
-    </div>
-    <div class="row align-items-center justify-content-center">
-      <div class="col-12 col-md-6   mt-4 mt-md-0 order-md-1 order-2">
-        <img alt="image" loading="lazy" class="img-fluid" src="http://via.placeholder.com/650x450/5fa9f8/fff">
-      </div>
-      <div class="col-12 col-md-4 order-1 order-md-2">
-        <h2>Nice Heading</h2>
-        <p class="text-h3 mt-3">Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
-      </div>
-    </div>
-  </div>
-</section>`
-});Vvveb.Sections.add("showcase/showcase-12", {
-    name: "Showcase 12",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/showcase/showcase-12-thumb.jpeg",
-    html: `<section class="showcase-12" title="showcase-12">
+Vvveb.Sections.add("showcase/showcase-12", {
+  name: "Showcase 12",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/showcase/showcase-12-thumb.jpeg",
+  html: `<section class="showcase-12" title="showcase-12">
   <div class="container">
     <div class="row g-1 justify-content-center">
       <div class="col-12 col-sm-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
@@ -2248,1056 +1707,25 @@ Vvveb.Sections.add("showcase/showcase-1", {
       </div>
     </div>
   </div>
-</section>`
+</section>`,
 });
-	Vvveb.SectionsGroup["Showcase"] = ["showcase/showcase-1","showcase/showcase-2","showcase/showcase-3","showcase/showcase-4","showcase/showcase-5","showcase/showcase-6","showcase/showcase-7","showcase/showcase-8","showcase/showcase-9","showcase/showcase-10","showcase/showcase-11","showcase/showcase-12"];
-Vvveb.Sections.add("team/team-1", {
-    name: "Team 1",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/team/team-1-thumb.jpeg",
-    html: `<section class="py-5" title="team-1">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h2 class="mb-3">Meet Our Team</h2>
-        <h3 class="text-muted">We are a group of professionals dedicated to their work</h3>
-      </div>
-    </div>
-    <div class="row">
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row">
-          <div class="col-md-12">
-            <img alt="image" loading="lazy" src="img/sections/team/1.jpg" class="img-fluid p-4 rounded-circle">
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h4 class="mt-4 mb-0">John Doe</h4>
-              <h5 class="text-muted mb-3">CTO - Founder</h5>
-              <p class="text-muted">We are a group of professionals dedicated to their work</p>
-
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row">
-          <div class="col-md-12">
-            <img alt="image" loading="lazy" src="img/sections/team/2.jpg" class="img-fluid p-4 rounded-circle">
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h4 class="mt-4 mb-0">John Doe</h4>
-              <h5 class="text-muted mb-3">CTO - Tech</h5>
-              <p class="text-muted">We are a group of professionals dedicated to their work</p>
-
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row">
-          <div class="col-md-12">
-            <img alt="image" loading="lazy" src="img/sections/team/3.jpg" class="img-fluid p-4 rounded-circle">
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h4 class="mt-4 mb-0">John Doe</h4>
-              <h5 class="text-muted mb-3">CSO - Financial</h5>
-              <p class="text-muted">We are a group of professionals dedicated to their work</p>
-
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row">
-          <div class="col-md-12">
-            <img alt="image" loading="lazy" src="img/sections/team/4.jpg" class="img-fluid p-4 rounded-circle">
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h4 class="mt-4 mb-0">John Doe</h4>
-              <h5 class="text-muted mb-3">CMO - Operations</h5>
-              <p class="text-muted">You can relay on our amazing features list and also our user services will be great experience.</p>
-
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</section>`
-});Vvveb.Sections.add("team/team-2", {
-    name: "Team 2",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/team/team-2-thumb.jpeg",
-    html: `<section class="py-5 team-2" title="team-2">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h3 class="mb-3">Meet Our Team</h3>
-        <h5 class="lead text-muted">We are a group of professionals dedicated to their work</h5>
-      </div>
-    </div>
-    <div class="row justify-content-center py-5">
-      <div class="card col-md-3">
-        <div class="card-content">
-          <div class="card-body p-0">
-            <div class="profile">
-              <img src="img/sections/team/1.jpg" loading="lazy" alt="team">
-            </div>
-            <div class="card-title mt-4">
-              <h4>Jane Doe</h4>
-              <small>CEO - Founder</small>
-            </div>
-            <div class="card-subtitle">
-              <p class="text-muted"> I really enjoyed working with them, they are Group of Professionals and they know what they're Doing </p>
-            </div>
-            <div class="card-footer">
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="card col-md-3">
-        <div class="card-content">
-          <div class="card-body p-0">
-            <div class="profile">
-              <img src="img/sections/team/2.jpg" loading="lazy" alt="team">
-            </div>
-            <div class="card-title mt-4">
-              <h4>John Doe</h4>
-              <small>CTO - Co-Founder</small>
-            </div>
-            <div class="card-subtitle">
-              <p class="text-muted"> I really enjoyed working with them, they are Group of Professionals and they know what they're Doing </p>
-            </div>
-            <div class="card-footer">
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="card col-md-3">
-        <div class="card-content">
-          <div class="card-body p-0">
-            <div class="profile">
-              <img src="img/sections/team/3.jpg" loading="lazy" alt="team">
-            </div>
-            <div class="card-title mt-4">
-              <h4>Jane Doe</h4>
-              <small>CSO - Financial</small>
-            </div>
-            <div class="card-subtitle">
-              <p class="text-muted"> I really enjoyed working with them, they are Group of Professionals and they know what they're Doing </p>
-            </div>
-            <div class="card-footer">
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook-f"></i>
-                    <span class="visually-hidden">Facebook</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-</section>`
-});Vvveb.Sections.add("team/team-3", {
-    name: "Team 3",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/team/team-3-thumb.jpeg",
-    html: `<section class="py-5" title="team-5">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h3 class="mb-3">Meet Our Team</h3>
-        <h5 class="text-muted">We are a group of professionals dedicated to their work</h5>
-      </div>
-    </div>
-    <div class="row">
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row no-gutters">
-          <div class="col-md-12 pro-pic">
-            <img alt="image" src="img/sections/team/1.jpg" class="img-fluid p-4" loading="lazy">
-
-            <ul class="mb-0 list-inline mt-3 px-4">
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-facebook"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-twitter"></i>
-                  <span class="visually-hidden">Twitter</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-instagram"></i>
-                  <span class="visually-hidden">Instagram</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-linkedin"></i>
-                  <span class="visually-hidden">Linkedin</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row no-gutters">
-          <div class="col-md-12 pro-pic">
-            <img alt="image" src="img/sections/team/2.jpg" class="img-fluid p-4" loading="lazy">
-
-            <ul class="mb-0 list-inline mt-3 px-4">
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-facebook"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-twitter"></i>
-                  <span class="visually-hidden">Twitter</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-instagram"></i>
-                  <span class="visually-hidden">Instagram</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-linkedin"></i>
-                  <span class="visually-hidden">Linkedin</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row no-gutters">
-          <div class="col-md-12 pro-pic">
-            <img alt="image" src="img/sections/team/3.jpg" class="img-fluid p-4" loading="lazy">
-
-            <ul class="mb-0 list-inline mt-3 px-4">
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-facebook"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-twitter"></i>
-                  <span class="visually-hidden">Twitter</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-instagram"></i>
-                  <span class="visually-hidden">Instagram</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-linkedin"></i>
-                  <span class="visually-hidden">Linkedin</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-3 mb-4">
-
-        <div class="row no-gutters">
-          <div class="col-md-12 pro-pic">
-            <img alt="image" src="img/sections/team/4.jpg" class="img-fluid p-4" loading="lazy">
-
-            <ul class="mb-0 list-inline mt-3 px-4">
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-facebook"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-twitter"></i>
-                  <span class="visually-hidden">Twitter</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-instagram"></i>
-                  <span class="visually-hidden">Instagram</span>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="social-link">
-                  <i class="lab la-linkedin"></i>
-                  <span class="visually-hidden">Linkedin</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-</section>`
-});Vvveb.Sections.add("team/team-4", {
-    name: "Team 4",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/team/team-4-thumb.jpeg",
-    html: `<section class="py-5" title="team-6">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h3 class="mb-3">Meet Our Team</h3>
-        <h5 class="text-muted">We are a group of professionals dedicated to their work</h5>
-      </div>
-    </div>
-    <div class="row">
-
-      <div class="col-lg-4 mb-4">
-
-        <div class="row">
-          <div class="col-md-12">
-            <img alt="image" src="img/sections/team/1.jpg" class="img-fluid p-4" loading="lazy">
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-4 mb-4">
-
-        <div class="row">
-          <div class="col-md-12 pro-pic">
-            <img alt="image" src="img/sections/team/2.jpg" class="img-fluid p-4" loading="lazy">
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="col-lg-4 mb-4">
-
-        <div class="row">
-          <div class="col-md-12 pro-pic">
-            <img alt="image" src="img/sections/team/3.jpg" class="img-fluid p-4" loading="lazy">
-          </div>
-          <div class="col-md-12">
-            <div class="px-4">
-              <h5 class="mt-4 mb-0">John Doe</h5>
-              <h6 class="text-muted mb-3">CSO - Financial</h6>
-              <p class="mt-3">We are a group of professionals dedicated to their work</p>
-              <ul class="mb-0 list-inline mt-3">
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-facebook"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-twitter"></i>
-                    <span class="visually-hidden">Twitter</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-instagram"></i>
-                    <span class="visually-hidden">Instagram</span>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="social-link">
-                    <i class="lab la-linkedin"></i>
-                    <span class="visually-hidden">Linkedin</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-</section>`
-});Vvveb.Sections.add("team/team-5", {
-    name: "Team 5",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/team/team-5-thumb.jpeg",
-    html: `<section class="py-5" title="team-7">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h3 class="mb-3">Meet Our Team</h3>
-        <h5 class="text-muted">We are a group of professionals dedicated to their work</h5>
-      </div>
-    </div>
-    <div class="row">
-
-      <div class="col-lg-6">
-        <div class="card shadow-sm border-1 mb-4 p-0">
-
-          <div class="row no-gutters">
-            <div class="col-md-5">
-
-              <img alt="image" src="img/sections/team/1.jpg" class="img-fluid" loading="lazy">
-
-            </div>
-            <div class="col-md-7">
-              <div class="p-4">
-                <h4 class="mb-3">John Doe</h4>
-                <p>We are a group of professionals dedicated to their work</p>
-                <ul class="mb-0 list-inline mt-3">
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-facebook-f"></i>
-                      <span class="visually-hidden">Facebook</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-twitter"></i>
-                      <span class="visually-hidden">Twitter</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-instagram"></i>
-                      <span class="visually-hidden">Instagram</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-linkedin"></i>
-                      <span class="visually-hidden">Linkedin</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-        <div class="card shadow-sm border-1 mb-4 p-0">
-
-          <div class="row no-gutters">
-            <div class="col-md-5">
-
-              <img alt="image" src="img/sections/team/2.jpg" class="img-fluid" loading="lazy">
-
-            </div>
-            <div class="col-md-7">
-              <div class="p-4">
-                <h4 class="mb-3">John Doe</h4>
-                <p>We are a group of professionals dedicated to their work</p>
-                <ul class="mb-0 list-inline mt-3">
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-facebook-f"></i>
-                      <span class="visually-hidden">Facebook</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-twitter"></i>
-                      <span class="visually-hidden">Twitter</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-instagram"></i>
-                      <span class="visually-hidden">Instagram</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-linkedin"></i>
-                      <span class="visually-hidden">Linkedin</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-    </div>
-    <div class="row">
-
-      <div class="col-lg-6">
-        <div class="card shadow-sm border-1 mb-4 p-0">
-
-          <div class="row no-gutters">
-            <div class="col-md-5">
-
-              <img alt="image" src="img/sections/team/3.jpg" class="img-fluid" loading="lazy">
-            </div>
-            <div class="col-md-7">
-              <div class="p-4">
-                <h4 class="mb-3">John Doe</h4>
-                <p>We are a group of professionals dedicated to their work</p>
-                <ul class="mb-0 list-inline mt-3">
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-facebook-f"></i>
-                      <span class="visually-hidden">Facebook</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-twitter"></i>
-                      <span class="visually-hidden">Twitter</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-instagram"></i>
-                      <span class="visually-hidden">Instagram</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-linkedin"></i>
-                      <span class="visually-hidden">Linkedin</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-
-        <div class="card shadow-sm border-1 mb-4 p-0">
-          <div class="row no-gutters">
-            <div class="col-md-5">
-
-              <img alt="image" src="img/sections/team/4.jpg" class="img-fluid" loading="lazy">
-
-            </div>
-            <div class="col-md-7">
-              <div class="p-4">
-                <h4 class="mb-3">John Doe</h4>
-                <p>We are a group of professionals dedicated to their work</p>
-                <ul class="mb-0 list-inline mt-3">
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-facebook-f"></i>
-                      <span class="visually-hidden">Facebook</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-twitter"></i>
-                      <span class="visually-hidden">Twitter</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-instagram"></i>
-                      <span class="visually-hidden">Instagram</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="social-link">
-                      <i class="lab la-linkedin"></i>
-                      <span class="visually-hidden">Linkedin</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>`
-});Vvveb.Sections.add("team/team-6", {
-    name: "Team 6",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/team/team-6-thumb.jpeg",
-    html: `<section class="p-4" title="team-11">
-  <div class="container">
-    <div class="row text-center">
-
-
-      <div class="col-xl-3 col-sm-6 mb-5">
-        <div class="bg-white rounded shadow-sm py-5 px-4">
-
-          <img src="img/sections/team/1.jpg" alt="team" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" loading="lazy">
-
-          <h5 class="mb-0">John Doe</h5>
-          <span class="small text-uppercase text-muted">CEO - Founder</span>
-          <ul class="social mb-0 list-inline mt-3">
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-facebook-f-f"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-twitter"></i>
-                <span class="visually-hidden">Twitter</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-instagram"></i>
-                <span class="visually-hidden">Instagram</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-linkedin"></i>
-                <span class="visually-hidden">Linkedin</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-
-      <div class="col-xl-3 col-sm-6 mb-5">
-        <div class="bg-white rounded shadow-sm py-5 px-4">
-
-          <img src="img/sections/team/2.jpg" alt="team" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" loading="lazy">
-
-          <h5 class="mb-0">Jane Doe</h5>
-          <span class="small text-uppercase text-muted">CTO - Co-Founder</span>
-          <ul class="social mb-0 list-inline mt-3">
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-facebook-f"></i>
-                <span class="visually-hidden">Facebook</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-twitter"></i>
-                <span class="visually-hidden">Twitter</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-instagram"></i>
-                <span class="visually-hidden">Instagram</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-linkedin"></i>
-                <span class="visually-hidden">Linkedin</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-
-      <div class="col-xl-3 col-sm-6 mb-5">
-        <div class="bg-white rounded shadow-sm py-5 px-4">
-
-          <img src="img/sections/team/3.jpg" alt="team" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" loading="lazy">
-
-          <h5 class="mb-0">John Doe</h5>
-          <span class="small text-uppercase text-muted">CMO - Operations</span>
-          <ul class="social mb-0 list-inline mt-3">
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-facebook-f"></i>
-                <span class="visually-hidden">Facebook</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-twitter"></i>
-                <span class="visually-hidden">Twitter</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-instagram"></i>
-                <span class="visually-hidden">Instagram</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-linkedin"></i>
-                <span class="visually-hidden">Linkedin</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-
-      <div class="col-xl-3 col-sm-6 mb-5">
-        <div class="bg-white rounded shadow-sm py-5 px-4">
-
-          <img src="img/sections/team/4.jpg" alt="team" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" loading="lazy">
-
-          <h5 class="mb-0">Jane Doe</h5>
-          <span class="small text-uppercase text-muted">CCO - Financial</span>
-          <ul class="social mb-0 list-inline mt-3">
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-facebook-f"></i>
-                <span class="visually-hidden">Facebook</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-twitter"></i>
-                <span class="visually-hidden">Twitter</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-instagram"></i>
-                <span class="visually-hidden">Instagram</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="social-link">
-                <i class="lab la-linkedin"></i>
-                <span class="visually-hidden">Linkedin</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>`
-});
-	Vvveb.SectionsGroup["Team"] = ["team/team-1","team/team-2","team/team-3","team/team-4","team/team-5","team/team-6"];
+Vvveb.SectionsGroup["Showcase"] = [
+  "showcase/showcase-1",
+  "showcase/showcase-2",
+  "showcase/showcase-3",
+  "showcase/showcase-4",
+  "showcase/showcase-5",
+  "showcase/showcase-6",
+  "showcase/showcase-7",
+  "showcase/showcase-8",
+  "showcase/showcase-12",
+];
 Vvveb.Sections.add("testimonials/testimonials-1", {
-    name: "Testimonials 1",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/testimonials/testimonials-1-thumb.jpeg",
-    html: `<section class="testimonials-1 bg-alternate" title="testimonials-1">
+  name: "Testimonials 1",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/testimonials/testimonials-1-thumb.jpeg",
+  html: `<section class="testimonials-1 bg-alternate" title="testimonials-1">
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
@@ -3387,11 +1815,14 @@ Vvveb.Sections.add("testimonials/testimonials-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("testimonials/testimonials-2", {
-    name: "Testimonials 2",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/testimonials/testimonials-2-thumb.jpeg",
-    html: `<section class="py-5" title="testimonials-2">
+</section>`,
+});
+Vvveb.Sections.add("testimonials/testimonials-2", {
+  name: "Testimonials 2",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/testimonials/testimonials-2-thumb.jpeg",
+  html: `<section class="py-5" title="testimonials-2">
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
@@ -3518,11 +1949,14 @@ Vvveb.Sections.add("testimonials/testimonials-1", {
       </div>
     </div>
   </div>
-</section>`
-});Vvveb.Sections.add("testimonials/testimonials-3", {
-    name: "Testimonials 3",
-    image: Vvveb.themeBaseUrl + "/screenshots/sections/testimonials/testimonials-3-thumb.jpeg",
-    html: `<section class="py-5 team-2" title="testimonials-3">
+</section>`,
+});
+Vvveb.Sections.add("testimonials/testimonials-3", {
+  name: "Testimonials 3",
+  image:
+    Vvveb.themeBaseUrl +
+    "/screenshots/sections/testimonials/testimonials-3-thumb.jpeg",
+  html: `<section class="py-5 team-2" title="testimonials-3">
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
@@ -3606,6 +2040,10 @@ Vvveb.Sections.add("testimonials/testimonials-1", {
         </div>
       </div>
     </div>
-</section>`
+</section>`,
 });
-	Vvveb.SectionsGroup["Testimonials"] = ["testimonials/testimonials-1","testimonials/testimonials-2","testimonials/testimonials-3"];
+Vvveb.SectionsGroup["Testimonials"] = [
+  "testimonials/testimonials-1",
+  "testimonials/testimonials-2",
+  "testimonials/testimonials-3",
+];

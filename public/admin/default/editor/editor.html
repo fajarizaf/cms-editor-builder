@@ -12,7 +12,7 @@
 
   <base href="../">
 
-  <title>Vvveb - Editor</title>
+  <title>Nodebuilder - Editor</title>
 
 
 
@@ -298,53 +298,6 @@
               <a class="nav-link mobile d-block d-sm-none " href="/admin/?module=product/products" data-v-menu-item-url title="Ecommerce" data-target="#menu-ecommerce">
                 <span class="title" data-v-menu-item-name>Ecommerce</span>
               </a>
-            </li>
-            <li class="nav-item" data-v-menu-item>
-              <a class="nav-link d-none d-md-block  items" href="/admin/?module=order/orders" data-v-menu-item-url title="Sales" data-target="#menu-sales">
-                <i class="icon-bag-handle-outline" data-v-menu-item-icon></i>
-                <span class="title" data-v-menu-item-name>Sales</span>
-              </a>
-              <a class="nav-link mobile d-block d-sm-none items" href="/admin/?module=order/orders" data-v-menu-item-url title="Sales" data-bs-toggle="dropdown" data-target="#menu-sales">
-                <i class="icon-bag-handle-outline" data-v-menu-item-icon></i>
-                <span class="title" data-v-menu-item-name>Sales</span>
-              </a>
-              <ul class="dropdown-menu sub-menu fade " data-v-submenu>
-                <li class="nav-item" data-v-submenu-item>
-                  <a href="/admin/?module=order/orders" class="nav-link " data-v-submenu-item-url>
-                    <i class="la la-file-invoice-dollar" data-v-submenu-item-icon></i>
-                    <span data-v-submenu-item-name>Orders</span>
-                  </a>
-                </li>
-                <li class="nav-item" data-v-submenu-item>
-                  <a href="/admin/?module=order/subscriptions" class="nav-link " data-v-submenu-item-url>
-                    <i class="la la-retweet" data-v-submenu-item-icon></i>
-                    <span data-v-submenu-item-name>Subscriptions</span>
-                  </a>
-                </li>
-                <li class="nav-item" data-v-submenu-item>
-                  <a href="/admin/?module=order/returns" class="nav-link " data-v-submenu-item-url>
-                    <i class="la la-undo" data-v-submenu-item-icon></i>
-                    <span data-v-submenu-item-name>Returns</span>
-                  </a>
-                </li>
-                <li class="nav-item heading" data-v-submenu-item>
-                  <a href class="nav-link " data-v-submenu-item-url>
-                    <span data-v-submenu-item-name>Marketing</span>
-                  </a>
-                </li>
-                <li class="nav-item" data-v-submenu-item>
-                  <a href="/admin/?module=order/coupons" class="nav-link " data-v-submenu-item-url>
-                    <i class="la la-percentage" data-v-submenu-item-icon></i>
-                    <span data-v-submenu-item-name>Discount coupons</span>
-                  </a>
-                </li>
-                <li class="nav-item" data-v-submenu-item>
-                  <a href="/admin/?module=order/vouchers" class="nav-link " data-v-submenu-item-url>
-                    <i class="la la-gift" data-v-submenu-item-icon></i>
-                    <span data-v-submenu-item-name>Gift vouchers</span>
-                  </a>
-                </li>
-              </ul>
             </li>
             <li class="nav-item align-middle columns-2" data-v-menu-item>
               <a class="nav-link d-none d-md-block  items" href="/admin/?module=product/products&amp;type=product" data-v-menu-item-url title="Products" data-target="#menu-product">
@@ -1683,7 +1636,21 @@
 
                   <select id="font-family" class="form-select" title="Font family">
                     <option value selected="selected"> - Font family - </option>
-                    
+                    <optgroup label="System default">
+                      <option value="Arial, Helvetica, sans-serif">Arial</option>
+                      <option value="'Lucida Sans Unicode', 'Lucida Grande', sans-serif">Lucida Grande</option>
+                      <option value="'Palatino Linotype', 'Book Antiqua', Palatino, serif">Palatino Linotype</option>
+                      <option value="'Times New Roman', Times, serif">Times New Roman</option>
+                      <option value="Georgia, serif">Georgia, serif</option>
+                      <option value="Tahoma, Geneva, sans-serif">Tahoma</option>
+                      <option value="'Comic Sans MS', cursive, sans-serif">Comic Sans</option>
+                      <option value="Verdana, Geneva, sans-serif">Verdana</option>
+                      <option value="Impact, Charcoal, sans-serif">Impact</option>
+                      <option value="'Arial Black', Gadget, sans-serif">Arial Black</option>
+                      <option value="'Trebuchet MS', Helvetica, sans-serif">Trebuchet</option>
+                      <option value="'Courier New', Courier, monospace">Courier New</option>
+                      <option value="'Brush Script MT', sans-serif">Brush Script</option>
+                    </optgroup>
                   </select>
                 </div>
 

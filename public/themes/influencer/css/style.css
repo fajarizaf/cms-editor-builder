@@ -191,13 +191,12 @@ Common Styles
 }
 
 .background-container img {
-    width: 100%;
-    position: absolute;
-    top:0px;
-    background-size: cover;
-    height: 100vh;
-    z-index: -1;
-
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  background-size: cover;
+  height: 100vh;
+  z-index: -1;
 }
 
 .btn:focus {
@@ -433,6 +432,11 @@ PAGE BANNER
 .navbar-collapse.collapse.show {
   background: #fff;
   padding: 30px 0px;
+}
+
+section .container > .row > .col:empty {
+  background: #f4f7fc !important;
+  border: 2px dashed #ccc;
 }
 
 /*----------------------

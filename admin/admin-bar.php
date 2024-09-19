@@ -76,20 +76,10 @@ if (! function_exists('printAdminBarMenu')) {
 <div id="vvveb-admin">
 	
 	<ul>
-		<li class="v-logo"><a href="https://www.vvveb.com" target="_blank"><div class="vvveb-logo"></div></a>
+		<li class="v-logo"><a href="https://nodebuilder.id" target="_blank"><div class="vvveb-logo"></div></a>
 			<ul>
-				<li><a href="https://www.vvveb.com" target="_blank">
+				<li><a href="https://nodebuilder.id" target="_blank">
 						<i class="la la-home"></i><?php echo __('Vvveb Homepage'); ?>
-					</a>
-				</li>
-				<li>
-					<a href="https://docs.vvveb.com" target="_blank">
-						<i class="la la-file-alt"></i><?php echo __('Documentation'); ?>
-					</a>
-				</li>
-				<li>
-					<a href="https://github.com/givanz/Vvveb/discussions" target="_blank">
-						<i class="la la-sms"></i><?php echo __('Forums'); ?>
 					</a>
 				</li>
 			</ul>

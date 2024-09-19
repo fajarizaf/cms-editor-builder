@@ -4,7 +4,7 @@
   array (
     'name' => 'Default',
     'host' => '*.*.*',
-    'theme' => 'influencer',
+    'theme' => 'landing-01',
     'state' => 'live',
     'template' => '',
     'id' => 1,

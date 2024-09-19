@@ -23,13 +23,13 @@
 /*
 Name: Influencer
 Parent: influencer
-URI: https://themefisher.com/products/Influencer
-Author: Themefisher & Vvveb
+URI: https://nodebuilder.id
+Author: Fajar Riza Fauzi
 Author URI: https://vvveb.com
-Description: Influencer is a one product ecommerce template.
+Description: Influencer is a one product landing page template.
 Version: 1.0
 License:  MIT
-License URI: https://vvveb.com/licence/
+License URI: https://nodebuilder.id/license
 Tags: blog, ecommerce
 Text Domain: influencer
 */

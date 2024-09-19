@@ -604,7 +604,7 @@ class Base {
 		$action = $action ?? $this->request->get['origaction'] ?? '';
 		$type   = $type ?? $this->request->get['type'] ?? '';
 		$action = $action ? '/' . $action : '';
-		$url    = 'http://docs.vvveb.net/';
+		$url    = 'http://docs.nodebuilder.id/';
 
 		if ($type == 'post' || $type == 'page'/* || $type == 'product'*/) {
 			$type   = $type ? '/' . $type : '';
