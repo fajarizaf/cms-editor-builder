@@ -17,6 +17,30 @@
 }
 
 .section.others-book > .container > .row > .col-lg-3.col-md-6.col-sm-6 > .book-item.mb-4.mb-lg-0 > .hover-item {
-	background-image: url(/cms-editor-builder/public/media/lqewCgAAQBAJ.jpeg);
+	background-image: url("/cms-editor-builder/public/media/lqewCgAAQBAJ.jpeg");
+}
+
+#chapter > .container > .row > .col-lg-6 > .section-heading > p {
+	font-size: 20px;
+}
+
+#book > .container > .row > .col-lg-6 > .section-heading.book-info.mt-5.mt-lg-0 > .list-unstyled.mt-4.mb-5 > li {
+	background-color: #f8f9fa;
+	color: #6c757d;
+	border-width: 1px;
+	border-style: solid;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+#book > .container > .row > .col-lg-6 > .section-heading.book-info.mt-5.mt-lg-0 {
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
 }
 
